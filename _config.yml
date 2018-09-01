@@ -9,11 +9,11 @@ username: Pao
 user_title: PAO'S Profile
 email: paowang@flashaim.com
 github_username:  flashaim-pao
-linkedin_public_url: pao-yao-wang-1524b350 
+linkedin_public_url: pao-yao-wang-1524b350
 #twitter_username: loremipsum
 #gplus_username:  loremipsum
 disqus_username: ld-pao0111
-profile_picture: https://s3.amazonaws.com/logdown-production/system/blog/5862/og_image/pao3.jpeg
+profile_picture: https://www.gravatar.com/avatar/aa03ac228c4ad38797ee84b1f007a11a?s=200
 
 # Build settings
 markdown: kramdown
@@ -64,7 +64,7 @@ links:
   # - name: vim-frontend
   #   url: https://github.com/victorvoid/vim-frontend
   # - name: generator-capybara
-  #   url: https://github.com/victorvoid/generator-capybara 
+  #   url: https://github.com/victorvoid/generator-capybara
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

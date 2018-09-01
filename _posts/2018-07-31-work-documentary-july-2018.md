@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2018年 7月'
 date: 2018-07-31 15:33
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+
 ---
 # 課程
 
@@ -36,7 +42,7 @@ categories:
 * Mashup MySQL slave 損毀
     + bin log relay 因為 NAS 主機異常而損壞
     + 由於 master 的 bin log 正常
-        - 修復 slave 上的 bin log 
+        - 修復 slave 上的 bin log
         - 參考：https://dba.stackexchange.com/questions/53893/mysql-relay-log-corrupted-how-do-i-fix-it-tried-but-failed
 * 協助調查客戶產品被改為1元的記錄
 

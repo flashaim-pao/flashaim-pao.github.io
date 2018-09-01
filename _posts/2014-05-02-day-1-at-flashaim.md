@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 1 at Flashaim'
 date: 2014-05-02 13:26
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+
 ---
 ## 我是新人，請大家多多指教。
 雖然不是第一天到公司了，但還是有種*新鮮感*。

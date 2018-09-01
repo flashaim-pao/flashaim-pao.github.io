@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2016年 1月'
 date: 2016-01-30 16:00
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # α 產品
 

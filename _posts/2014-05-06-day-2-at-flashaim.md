@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 2 at Flashaim'
 date: 2014-05-06 02:51
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # MySQL 叢集實驗
 首先研讀官方以及第三方的文件，並調查 Mashup 主機的軟體環境，包含 OS 以及 MySQL 版本等。確認後即安裝多台虛擬機器，得以進行叢集實驗。組成如下：

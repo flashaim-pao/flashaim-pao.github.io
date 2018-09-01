@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 3 at Flashaim'
 date: 2014-05-07 11:40
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # 關鍵字分析專案
 早上與冠宇一同與老大開會，是與**關鍵字**分析相關的專案，受到網站流量分析服務 **Alexa** 的啟發。目前由我與冠宇組成雙人小組，從蒐集*三大搜尋引擎*的相關資料為開始，例如分析工具、服務或 API 等等。甚至調查現有的相似服務或工具，希望這專案能為公司帶來直接且正面的影響。

@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 12 at Flashaim'
 date: 2014-05-22 01:56
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Mashup 負載測試
 [測試結果](https://docs.google.com/a/flashaim.com/spreadsheets/d/1l0P3gf98sS54jGH0OuKdNMKelTf6vYzI8tMfOXsh07I/edit?usp=sharing)

@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 9月'
 date: 2014-08-29 11:13
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 
 # Yahoo 圖文廣告找尋程式

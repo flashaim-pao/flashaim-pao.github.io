@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 8月'
 date: 2014-07-31 10:11
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # Trace
 

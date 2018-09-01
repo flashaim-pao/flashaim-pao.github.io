@@ -2,8 +2,13 @@
 layout: post
 title: 'TypeScript'
 date: 2015-09-18 03:57
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 雜談
+tags:
+    - 知識科技
+
 ---
 2014年9月，TypeScript 才剛發佈 1.1，距離 1.0 也沒有很久。由於先前產品開發採用 Dart 語言的挫敗，因此我決定改用 TypeScript，賭它一把。
 
@@ -14,4 +19,3 @@ categories:
 雖然我還是對 JavaScript 以及前端的種種頗有微言，但至少 TypeScript 讓我減少了（一點）點怨言。
 
 如果同事有誰要來寫前端，真心推薦 TypeScript... XD
-

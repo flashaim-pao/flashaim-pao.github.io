@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 7 at Flashaim'
 date: 2014-05-14 01:52
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # MySQL Master-Master Replication 實驗
 由於 Mashup 的 Customer Table 超過 MySQL NDB Cluster 的 row size 上限，因此今天早上則研究第三方 Cluster 解決方案。以常見的 **Master-Master Replication Cluster** 而言，第三方選擇有：

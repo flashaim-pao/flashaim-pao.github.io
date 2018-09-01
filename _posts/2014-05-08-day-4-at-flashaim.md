@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 4 at Flashaim'
 date: 2014-05-08 02:12
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 延續前次的實驗，排除了數個困難後，算是成功建置 **MySQL 叢集**與**負載分配**（Load Balance）。
 然而轉移目前資料庫的內容至測試叢集內，才能驗證轉移是否有其他問題存在。這部份仍需要其他同仁協助，測試成功後才能開始計畫實際的轉移。

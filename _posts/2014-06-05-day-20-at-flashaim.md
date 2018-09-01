@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 20 at Flashaim'
 date: 2014-06-05 01:29
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Mashup Lego 設計會議
 上午召開了 Mashup Lego 進一步設計的討論，由於上次的會議當中，提出了許多各具創意的條件。這次討論的重點則轉到另一個核心概念 －－ **模組化**網站。

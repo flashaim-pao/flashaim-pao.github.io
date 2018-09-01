@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 12月'
 date: 2014-11-28 09:27
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # Trace
 

@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2016年 9月'
 date: 2016-09-29 16:00
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # HFRE 產品
 

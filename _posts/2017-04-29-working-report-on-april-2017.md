@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2017年 4月'
 date: 2017-04-29 16:00
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # MS 產品
 

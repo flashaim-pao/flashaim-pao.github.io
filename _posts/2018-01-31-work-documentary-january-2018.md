@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2018年 1月'
 date: 2018-01-31 15:48
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # FSB 產品
 

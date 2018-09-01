@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 13 at Flashaim'
 date: 2014-05-23 01:23
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Vagrant 
 在還沒有虛擬機器出現之前，建立開發環境往往會發生：

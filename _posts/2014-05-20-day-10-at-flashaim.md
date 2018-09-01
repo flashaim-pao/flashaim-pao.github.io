@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 10 at Flashaim'
 date: 2014-05-20 01:59
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Mashup 負載測試
 

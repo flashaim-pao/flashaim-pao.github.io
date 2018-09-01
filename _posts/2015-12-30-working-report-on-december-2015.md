@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2015年 12月'
 date: 2015-12-30 16:00
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # α 產品
 

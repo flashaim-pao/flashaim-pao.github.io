@@ -2,8 +2,13 @@
 layout: post
 title: '虛擬機器甘苦談'
 date: 2014-06-08 13:16
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 雜談
+tags:
+    - 知識科技
+
 ---
 # 壓垮駱駝的最後一根稻草
 

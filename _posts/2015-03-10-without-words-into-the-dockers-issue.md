@@ -2,8 +2,13 @@
 layout: post
 title: '[無言] 撞到 Docker 的 issue...'
 date: 2015-03-10 14:28
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 雜談
+tags:
+    - 知識科技
+
 ---
 https://github.com/docker/compose/issues/622
 
@@ -16,5 +21,3 @@ https://github.com/docker/compose/issues/622
 看了一~~~長串的討論才發現新版已經修好了，但是要 `docker-compose rm` 清除所有的 *conainter* 之後重建才行。真是被打敗了，囧
 
 *Github* 裡面的 issue comments 滿滿地哀嚎，許多人都撞到這 issue，看來我並不寂寞（？），哈。
-
-

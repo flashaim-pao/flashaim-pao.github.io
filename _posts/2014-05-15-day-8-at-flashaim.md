@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 8 at Flashaim'
 date: 2014-05-15 01:45
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # MySQL Master-Master Replication 實驗
 手動安裝 MySQL 5.6 於 Ubuntu 12.04 Server，使用 ondrej 的 PPA (Personal Package Archives)。將 sql 檔的 table engine 改為 InnoDB 後，成功匯入而無昨天的錯誤（Fulltext index）。

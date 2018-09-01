@@ -2,8 +2,14 @@
 layout: post
 title: '2016 讀書心得 - 我愛電子商務更要加值自我獨特性'
 date: 2016-02-14 02:01
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 讀書心得
+    - 知識科技
+
 ---
 「知識邁向電子商務的核心發展從您個人部門公司所需要絕對工作價值請具體說明」
 ----

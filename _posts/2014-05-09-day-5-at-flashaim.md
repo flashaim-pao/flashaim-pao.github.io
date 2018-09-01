@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 5 at Flashaim'
 date: 2014-05-09 02:35
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Google Place
 需求是能程式化發布商家位置至 Google Map 上。Google Place API 可以達成這一點，但是僅限於**共用金鑰的應用程式（App）**。簡單的說，Google Place API 是提供**客製化地圖**給你的 APP 使用，是沒有辦法發布回公開的 Google Map。

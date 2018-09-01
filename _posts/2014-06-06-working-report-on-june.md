@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實  6月'
 date: 2014-06-06 02:09
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # Mashup 專案
 

@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2017年 7月'
 date: 2017-07-30 16:00
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # FSB 產品
 

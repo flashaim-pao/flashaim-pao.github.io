@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 18 at Flashaim'
 date: 2014-06-03 06:56
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # 同步 Mashup SVN 儲存庫到 Git 儲存庫（Bitbucket）
 為了明天能順利讓開發 Mashup 的大夥們過渡到 Git，所以我今天幫他們將目前 Mashup 在 Subversion 裡面的 commit，手動同步到 Git Repo. 裡，並上傳到 BitBucket。

@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 6 at Flashaim'
 date: 2014-05-13 01:30
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Mashup MySQL Cluster
 延續實驗，將 dump 出來的 Mashup Database 資料，匯入測試用的 Cluster：

@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 16 at Flashaim'
 date: 2014-05-29 02:17
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # Mashup 2.0
 

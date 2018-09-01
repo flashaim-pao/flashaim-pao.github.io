@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 7月'
 date: 2014-07-01 02:09
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # ERP 專案
 

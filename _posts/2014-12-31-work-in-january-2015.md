@@ -2,8 +2,14 @@
 layout: post
 title: '工作紀實 2015年 1月'
 date: 2014-12-31 08:39
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 月報
+    - 知識科技
+ 
 ---
 # Trace
 

@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 9 at Flashaim'
 date: 2014-05-16 01:25
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # MySQL Cluster 建置實驗
 

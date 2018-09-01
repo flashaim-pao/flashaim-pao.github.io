@@ -2,8 +2,14 @@
 layout: post
 title: 'Day 11 at Flashaim'
 date: 2014-05-21 10:01
-comments: true
-categories: 
+image: ''
+description: ''
+categories:
+    - 工作紀實
+tags:
+    - 新人日誌
+    - 知識科技
+ 
 ---
 # RD 週會
 主要議題依然是 Mashup，主要觀察目前狀況，也在能幫上忙的地方幫忙。不過會議前，阿信與大夥商討改變 Trello 的用法，大夥也都欣然接受。主要是改為以卡片為主的作法，並修改 Trello 的流程定義，使其更符合當前的開發情境。實際上是恢復一般的 Trello 使用情境，也就是 **Kanban** 管理方法（著重在工作的流程管理）。前公司也有導入 Trello 進行管理，算是已經摸了一段時間，所以這樣的使用情境還算蠻熟悉的。

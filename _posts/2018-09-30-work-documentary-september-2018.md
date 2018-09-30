@@ -2,7 +2,7 @@
 layout: post
 title: '工作紀實 2018年 9月'
 date: 2018-09-30 20:59
-image: 'https://i.imgur.com/jyfmBt1.png'
+image: ''
 description: ''
 categories:
     - 工作紀實
@@ -10,7 +10,9 @@ tags:
     - 月報
     - 知識科技
 ---
-# MS & FSB
+
+![jekyll](https://i.imgur.com/jyfmBt1.png)
+
 由於原本用的部落格平台，平台方似乎已放棄維護，趕緊在失效之前換一個平台。
 為了*Markdown*與*免費*這兩項需求，所以改用 github 提供的免費空間，還支援 Jekyll 靜態部落格系統。
 雖然挑了一套順眼的 template ，但還是小改了程式讓它支援 Disqus 留言服務。
